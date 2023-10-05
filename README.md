@@ -1,6 +1,6 @@
 # Web Scraping Projects
 
-Welcome to my collection of Web Scraping projects. Here, I've showcased 14 different projects that utilize various web scraping technologies and show a range of skills in data collection, data cleaning, and data manipulation. 
+Welcome to my collection of Web Scraping projects. Here, Here are all different projects that utilize various web scraping technologies and show a range of skills in data collection, data cleaning, and data manipulation. 
 
 ## Technologies & Skills 
 * Python
