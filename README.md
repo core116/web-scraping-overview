@@ -1,4 +1,4 @@
-![image](https://github.com/core116/web-scraping-overview/assets/120689599/53b8af56-f793-47cc-9b3d-4a84b66fb411)# Web Scraping Projects
+# Web Scraping Projects
 
 Welcome to my collection of Web Scraping projects. Here, I've showcased 14 different projects that utilize various web scraping technologies and show a range of skills in data collection, data cleaning, and data manipulation. 
 
